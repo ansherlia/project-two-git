@@ -1,0 +1,19 @@
+* {
+    background: #1B1464;
+    color: antiquewhite;
+    font-size: larger;
+}
+.main {
+    padding-left: 700px;
+    background: #D980FA;
+}
+.footer {
+    padding-left: 200px;
+    background: #747d8c;
+    width: 400px;
+    
+}
+.footer2 {
+    padding-bottom: 200px;
+    
+}
